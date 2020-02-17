@@ -1,0 +1,10 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is 3E9B-DEA0
+
+ Directory of C:\Users\poonam.kumari02\Desktop\myprojectp
+
+02/17/2020  08:29 PM    <DIR>          .
+02/17/2020  08:29 PM    <DIR>          ..
+02/17/2020  08:29 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  118,894,301,184 bytes free
